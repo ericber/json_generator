@@ -9,7 +9,7 @@ def test_case1():
     assert True == True
 
 def test_case2():
-    assert True == True
+    assert True == False
 
 def test_case3():
     assert True == True
