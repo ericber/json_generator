@@ -28,7 +28,12 @@ if __name__ == '__main__':
        {
             "test_id": 42188,
             "watch": "instinct",
-            "status": False
+            "status": True
+       }
+       {
+            "test_id": 0,
+            "watch": "venu",
+            "status": True
        }
     ]
     
