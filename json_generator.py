@@ -24,17 +24,17 @@ if __name__ == '__main__':
             "test_id": 42187,
             "watch": "venu2",
             "status": True
-       }
+       },
        {
             "test_id": 42188,
             "watch": "instinct",
             "status": True
-       }
+       },
        {
             "test_id": 42189,
             "watch": "venu",
             "status": True
-       }
+       },
        {
             "test_id": 42190,
             "watch": "fenix5",
