@@ -37,11 +37,12 @@ if __name__ == '__main__':
        }
        {
             "test_id": 42190,
+            "watch": "fenix5",
             "status": True
        }
     ]
     
     print ('executing json_gerator...')
-    with open('output.json', 'w') as file:
-        json.dump(test_results, file, indent=4)
+    #with open('output.json', 'w') as file:
+    #    json.dump(test_results, file, indent=4)
     print ('created output.json')
