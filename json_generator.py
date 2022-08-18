@@ -31,7 +31,7 @@ if __name__ == '__main__':
             "status": True
        },
        {
-            "test_id": 42189,
+            "test_id": 0,
             "watch": "venu",
             "status": True
        },
@@ -43,6 +43,6 @@ if __name__ == '__main__':
     ]
     
     print ('executing json_gerator...')
-    #with open('output.json', 'w') as file:
-    #    json.dump(test_results, file, indent=4)
+    with open('output.json', 'w') as file:
+        json.dump(test_results, file, indent=4)
     print ('created output.json')
