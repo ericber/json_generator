@@ -42,7 +42,13 @@ if __name__ == '__main__':
        },
        {
             "test_id": 42191,
+            "watch": "instinct2",
             "status": True
+       },
+       {
+            "test_id": 42192,
+            "watch": "instinct3",
+            "status": False
        }
     ]
     
